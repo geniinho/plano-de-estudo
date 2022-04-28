@@ -18,6 +18,6 @@ Vou aproveitar o tempo restante na plataforma alura, que vai durar até o dia 30
 
 **Padrões de Projeto em JAVA**
 
-- [ ] - [ ] https://www.alura.com.br/curso-online-solid-orientacao-objetos-java  ⌚14h p/ conclusão
+- [ ] https://www.alura.com.br/curso-online-solid-orientacao-objetos-java  ⌚14h p/ conclusão
 <br>
 <p align="center"> Demais cursos serão inseridos conforme necessidade </p>
