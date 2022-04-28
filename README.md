@@ -6,7 +6,7 @@ Consolidação de conceitos e mergulho nas boas praticas da linguagem focando na
 
 ## Cronograma
 
-Vou aproveitar o tempo restante na plataforma alura, que vai durar até o dia 30/04/2022
+Vou aproveitar o tempo restante na plataforma alura, que vai durar até o dia 30/04/2022, o que não der tempo vou procurar material em outras plataformas.
 
 **Consolidar paradigmas da OO**
 
