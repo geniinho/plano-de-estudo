@@ -15,7 +15,7 @@ Vou aproveitar o tempo restante na plataforma alura, que vai durar até o dia 30
 **SOLID com Java: princípios da programação orientada a objetos**
 
 - [x] https://www.alura.com.br/curso-online-solid-orientacao-objetos-java  ⌚8h p/ conclusão
-- https://cursos.alura.com.br/certificate/g-de-souza-filho/solid-orientacao-objetos-java
+- [**Certificado de conclusão**](https://cursos.alura.com.br/certificate/g-de-souza-filho/solid-orientacao-objetos-java)📜
 
 **Padrões de Projeto em JAVA**
 
