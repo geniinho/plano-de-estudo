@@ -19,6 +19,7 @@ Vou aproveitar o tempo restante na plataforma alura, que vai durar até o dia 30
 
 **Padrões de Projeto em JAVA**
 
-- [ ] [Padrões de Projeto em JAVA](https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/)  ⌚14h p/ conclusão
+- [x] [Padrões de Projeto em JAVA](https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/)  ⌚14h p/ conclusão
+- [**Certificado de conclusão**](https://www.udemy.com/certificate/UC-e4ca108d-ab99-431b-80e6-4bbd79f26618/)📜
 <br>
 <p align="center"> Demais cursos serão inseridos conforme necessidade </p>
